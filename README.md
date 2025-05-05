@@ -68,3 +68,13 @@ Preview the PlayHaven UI with real screenshots:
 
 ---
 
+## 👥 Collaborators
+
+Thanks to the amazing team behind PlayHaven:
+
+- [@Ajay Peter R](https://github.com/AjayPeter582)
+- [@Mohamed Usan Abubucker Siddique M](https://github.com/siddique-17)
+- [@Pon Selvam S](https://github.com/ponselvam05)
+
+---
+
