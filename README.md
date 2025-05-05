@@ -60,7 +60,7 @@ Preview the PlayHaven UI with real screenshots:
 |------------------------|---------------------|
 | ![](./img/IM7.png) | ![](./img/IM8.png) |
 
-| **Admin UI** | **Account Page** |
+| **User UI** | **Account Page** |
 |---------------|------------------|
 | ![](./img/IM9.png) | ![](./img/IM10.png) |
 
